@@ -11,7 +11,7 @@ void display()
 {
     glClear(GL_COLOR_BUFFER_BIT);
     glColor3f(0,0,0);
-    glRasterPos2i(2,10);
+    glRasterPos2i(2,4);
     const char*mystring ="Hello,World";
     for(int i=0;i<strlen(mystring);++i)
     {

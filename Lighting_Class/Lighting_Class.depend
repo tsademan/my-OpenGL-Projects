@@ -1,7 +1,7 @@
 # depslib dependency file v1.0
-1686776735 source:c:\users\wtsad\onedrive\documents\graphics\myprojects\towritestring\main.cpp
-	<windows.h>
-	<gl/glut.h>
+1686786550 source:c:\users\wtsad\onedrive\documents\graphics\myprojects\lighting_class\main.cpp
+	<GL/glut.h>
+	<Math.h>
 
 1426338928 c:\program files\codeblocks\mingw\include\gl\glut.h
 	"freeglut_std.h"
