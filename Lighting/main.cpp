@@ -10,8 +10,10 @@ void init(void)
     GLfloat mat_diffuse[] = { 1.0, 0.0, 0.0, 1.0 };
     GLfloat mat_specular[] = { 1.0, 0.0, 0.0, 1.0 };
     GLfloat mat_shininess[] = { 100.0 };
+
     GLfloat light_position[] = { -1.0, 1.0, 1.0, 0.0 };
     GLfloat light_position1[] = { 1.0, 1.0, 1.0, 0.0 };
+
     GLfloat light_ambient[] = { 0.2, 0.2, 0.2, 1.0 };
     GLfloat light_diffuse[] = { 1.0, 1.0, 1.0, 1.0 };
     GLfloat light_specular[] = { 1.0, 1.0, 1.0, 1.0 };

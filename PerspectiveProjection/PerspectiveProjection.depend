@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1686692306 source:c:\users\wtsad\onedrive\documents\graphics\myprojects\lighting\main.cpp
-	<GL/glut.h>
+1686767068 source:c:\users\wtsad\onedrive\documents\graphics\myprojects\perspectiveprojection\main.cpp
+	<windows.h>
+	<gl/glut.h>
 
 1426338928 c:\program files\codeblocks\mingw\include\gl\glut.h
 	"freeglut_std.h"
